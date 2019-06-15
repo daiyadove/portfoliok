@@ -1,18 +1,14 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>間に合いませんでした!Twitterに飛びます!</h1>
+    <a href="https://twitter.com/flowphantom">Twitter</a>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+  window.location.href = 'https://twitter.com/flowphantom';
 export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
+    name: 'app',
 }
 </script>
 
