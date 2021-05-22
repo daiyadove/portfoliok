@@ -6,7 +6,7 @@
 </template>
 
 <script>
-  window.location.href = 'https://twitter.com/flowphantom';
+  window.location.href = 'https://www.notion.so/OK-8984f42eadf54e638aeff8e3952c83cb';
 export default {
     name: 'app',
 }
